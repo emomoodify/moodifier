@@ -2,6 +2,11 @@
 
 > **From “sad vase” to “joyful dress” in one click.**
 > Moodifier connects abstract emotions (e.g., *relief, admiration, nervousness*) with concrete visual changes while preserving the original content.
+<p align="center">
+  <img src="https://emomoodify.github.io/app/image_assets/gallery/moodifier_examples2.png.png" alt="Moodifier Teaser" width="100%">
+  <br>
+  <em>Imagine transforming a cocktail dress from elegant to joyful with a single click. Moodifier bridges abstract emotions and visual content for precise, context-aware image editing.</em>
+</p>
 
 ---
 
