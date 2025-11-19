@@ -3,9 +3,6 @@
 > **From “sad vase” to “joyful dress” in one click.**
 > Moodifier connects abstract emotions (e.g., *relief, admiration, nervousness*) with concrete visual changes while preserving the original content.
 
-![Qualitative results of our Moodifier system performing emotion-driven image editing across diverse scenarios including facial expressions, fashion, jewelry, and home décor.](https://emomoodify.github.io/app/image_assets/gallery/moodifier_examples2.png.png) 
-![Comparison of Moodifier with state-of-the-art image editing methods, showing superior emotional accuracy and content preservation.](https://emomoodify.github.io/app/image_assets/gallery/moodifier_result_comparisons1.png.png)
-
 https://github.com/user-attachments/assets/e5d7a0c4-3d3a-4c2e-b82e-722c9e0a87bb
 
 ---
@@ -25,7 +22,7 @@ The system supports diverse use cases such as:
 * Product mockups & e-commerce imagery
 * Home décor and mood exploration
 
-**[Project page & demo](https://emomoodify.github.io/app/application.html#blocks)**
+**[Project page](https://emomoodify.github.io/app/index.html#blocks)** 
 
 ---
 
