@@ -1,5 +1,28 @@
 # Moodifier: MLLM-Enhanced Emotion-Driven Image Editing
 
+<p align="center">
+  <!-- Paper (generic, non-arXiv) -->
+  <a href="https://moodifymturkbucket.s3.us-east-2.amazonaws.com/IEEE_Transactions_on_Affective_Computing+(1).pdf">
+    <img src="https://img.shields.io/badge/Paper-PDF-critical" alt="Paper">
+  </a>
+  <!-- Project page -->
+  <a href="https://emomoodify.github.io/app/">
+    <img src="https://img.shields.io/badge/Project-Page-orange" alt="Project Page">
+  </a>
+  <!-- Hugging Face model -->
+  <a href="https://huggingface.co/emomoodify/moodifyCLIP/tree/master">
+    <img src="https://img.shields.io/badge/HuggingFace-Model-yellow" alt="Hugging Face Model">
+  </a>
+  <!-- Dataset / MoodArchive -->
+  <a href="https://drive.google.com/drive/folders/1hhy2p50FmdaoIAnFqnOeacZGWgHnZDb0?usp=sharing">
+    <img src="https://img.shields.io/badge/Dataset-MoodArchive-brightgreen" alt="Dataset: MoodArchive">
+  </a>
+  <!-- License -->
+  <a href="https://opensource.org/licenses/CC-BY-4.0">
+    <img src="https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg" alt="License">
+  </a>
+</p>
+
 > **From “sad vase” to “joyful dress” in one click.**
 > Moodifier connects abstract emotions (e.g., *relief, admiration, nervousness*) with concrete visual changes while preserving the original content.
 
