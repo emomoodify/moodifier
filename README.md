@@ -3,7 +3,7 @@
 # Moodifier: MLLM-Enhanced Emotion-Driven Image Editing
 
 <a href="https://emomoodify.github.io/app/"><img src="https://img.shields.io/badge/Project-Page-orange" alt="Project Page"></a>
-<a href="https://arxiv.org/abs/2505.07747"><img src="https://img.shields.io/badge/arXiv-2505.07747-b31b1b.svg" alt="arXiv"></a>
+<a href=""><img src="https://img.shields.io/badge/arXiv-2505.07747-b31b1b.svg" alt="arXiv"></a>
 <a href="https://opensource.org/licenses/CC-BY-4.0"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg" alt="License"></a>
 
 **Jiarong Ye** &nbsp;&nbsp;&nbsp;&nbsp; **Sharon X. Huang**
