@@ -45,7 +45,6 @@ The system supports diverse use cases such as:
 * Product mockups & e-commerce imagery
 * Home décor and mood exploration
 
-**[Project page](https://emomoodify.github.io/app/index.html#blocks)** 
 
 ---
 
