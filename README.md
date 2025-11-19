@@ -23,8 +23,8 @@
   </a>
 </p>
 
-> **From “sad vase” to “joyful dress” in one click.**
-> Moodifier connects abstract emotions (e.g., *relief, admiration, nervousness*) with concrete visual changes while preserving the original content.
+> **One image, many moods in one click.**  
+> Moodifier keeps the objects and scene *fixed* and edits only the **emotional appearance** (colors, lighting, style, expressions, and local details) to match a target emotion.
 
 https://github.com/user-attachments/assets/e5d7a0c4-3d3a-4c2e-b82e-722c9e0a87bb
 
