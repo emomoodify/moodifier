@@ -17,9 +17,9 @@
 ---
 
 <p align="center">
-  <img src="assets/teaser.png" alt="Moodifier Teaser" width="100%">
+  <img src="[assets/teaser.png](https://emomoodify.github.io/app/image_assets/gallery/workflow1.png)" alt="Moodifier Workflow" width="100%">
   <br>
-  <em>Imagine transforming a cocktail dress from elegant to joyful with a single click. Moodifier bridges abstract emotions and visual content for precise, context-aware image editing.</em>
+  <em>Our MLLM-enhanced Moodifier system integrates instruction-based and attention control approaches, enabling precise emotional transformations while preserving content integrity.</em>
 </p>
 
 ## 📖 Abstract
